@@ -8,6 +8,7 @@
       <mapping pattern=".jscrc" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="niy1" type="PLAIN_TEXT" />
+      <mapping pattern="response-from-garrett" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
