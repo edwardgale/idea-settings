@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="deploy_vpc_link_to_ce_account" type="Bash" />
+      <removed_mapping ext="sh" type="Bash" />
       <mapping pattern="alexa-surf-check" type="JavaScript" />
       <mapping pattern="AppBar" type="JavaScript" />
       <mapping pattern="GroupSelect" type="JavaScript" />
@@ -10,6 +12,7 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="niy1" type="PLAIN_TEXT" />
       <mapping pattern="response-from-garrett" type="PLAIN_TEXT" />
+      <mapping ext="sh" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
