@@ -12,6 +12,7 @@
       <mapping pattern="response-from-garrett" type="PLAIN_TEXT" />
       <mapping pattern="niy1" type="PLAIN_TEXT" />
       <mapping ext="cf" type="PLAIN_TEXT" />
+      <mapping ext="njk" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
