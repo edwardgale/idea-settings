@@ -6,6 +6,7 @@
       <mapping pattern="AppBar" type="JavaScript" />
       <mapping pattern="GroupSelect" type="JavaScript" />
       <mapping pattern="post-body-richs-work" type="PLAIN_TEXT" />
+      <mapping pattern="blah" type="PLAIN_TEXT" />
       <mapping pattern=".jscrc" type="PLAIN_TEXT" />
       <mapping pattern="response-from-garrett" type="PLAIN_TEXT" />
       <mapping pattern="ny2" type="PLAIN_TEXT" />
