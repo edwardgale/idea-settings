@@ -14,6 +14,10 @@
           <option name="url" value="https://galee@collaboration.dvla.gov.uk/bitbucket/scm/veap/cognito-advanced-ui-customisation.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dvla.gov.uk@collaboration.dvla.gov.uk" />
+          <option name="userName" value="Ed.Gale.Contractor" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/work/apiprojects" />
